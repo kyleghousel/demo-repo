@@ -6,7 +6,7 @@ Hi mom!
 
 Hi dad!
 
-## Local Development
+## Git Notes
 
 1. git branch to see what branch you are on
 2. git checkout branchname to change branch
